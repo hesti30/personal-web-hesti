@@ -61,7 +61,7 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" >
+  <section id="herooo" >
     <div class="hero-container background-image: url("../img/footer-bg.jpg")">
       <h1>Hesti Setiawati</h1>
       <h2>I'm a Professional</h2>
